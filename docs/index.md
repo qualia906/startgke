@@ -16,7 +16,7 @@
 - このラボでは、[ラボを開始] 時に GKE クラスタが自動で作成されます。  
     「ラボ用のリソースをプロビジョニングしています」の表示が消えてから Cloud Console にアクセスしてください。
     
-- タスク 2 の「Console で Pod をスケールアウトまたはスケールインする」の手順 4 では、[ACTIONS] > [スケール] > [レプリカを編集] をクリックしてください。
+- タスク 2 の「Console で Pod をスケールアウトまたはスケールインする」の手順 4 では、[**ACTIONS**] > [**スケール**] > [**レプリカを編集**] をクリックしてください。
     
 <br />
  
@@ -25,7 +25,7 @@
 - このラボでは、[ラボを開始] 時に GKE クラスタが自動で作成されます。
     
 
-![](https://lh6.googleusercontent.com/DwO0SICQkQDLfX1KipCC3UuAdMN-lOhb0mp5bmE3-N_4GVppzy2CciT5UQi3flRI7UVzrLyuz-rLUgogcyWINQFZcJm1hk_o0JBHqQcrJMJIsx0LRU9aU7hh4bjpGLVVkeQIoYnPkHR6EaexUHfiLrU1t3_hfsuxHPUCCscbEHk4mnB8_2uzM36N)
+![](./img/startgke-statefulset.png)
 
 
 <br />  
@@ -201,4 +201,4 @@
 
   
 
-![](https://lh4.googleusercontent.com/pfps14rzj_YqdCxe7AMHE9RR_rzmGnLsjnf0kDhSXQNfSpUtZOwgvsQa0nipCvjrMKxNgBfk9EmrWJIeFRcJrWxuYg9IRCsGj-ZsE9DrfmnhN8GKE1pdTxXTjo5JBelH43N5CWI9W7xzlIXZNR3nsq_yHe852MTvbNZYTToRTpZgAzk1mSWLc_nO)
+![](./img/startgke-microservice.png)
