@@ -1,8 +1,8 @@
 # Instruction
 
-- [Qwiklabs アカウント作成手順](https://qualia906.github.io/gcp-training-prep/registration/)
+- <a href="https://qualia906.github.io/gcp-training-prep/registration/" target=_blank>Qwiklabs アカウント作成手順</a>
     
-- [ラボの開始手順](https://github.com/qualia906/gcp-training-prep/blob/main/docs/how-to-use-lab/index.md)
+- <a href="https://qualia906.github.io/gcp-training-prep/how-to-use-lab/" target=_blank>ラボの開始手順</a>
     
 <br />
   
